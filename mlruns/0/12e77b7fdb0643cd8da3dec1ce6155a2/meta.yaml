@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/12e77b7fdb0643cd8da3dec1ce6155a2/artifacts
+end_time: 1754393473093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12e77b7fdb0643cd8da3dec1ce6155a2
+run_name: thoughtful-panda-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754393471780
+status: 3
+tags: []
+user_id: naman

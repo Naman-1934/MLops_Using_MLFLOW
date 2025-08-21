@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/649140515675100919/7b9c2a1c93b140d9bf351ce41c39fc9e/artifacts
+deleted_time: 1755689866089
+end_time: 1755689742910
+entry_point_name: ''
+experiment_id: '649140515675100919'
+lifecycle_stage: deleted
+run_id: 7b9c2a1c93b140d9bf351ce41c39fc9e
+run_name: gentle-snipe-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755689742264
+status: 4
+tags: []
+user_id: naman

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/649140515675100919/438d5a3187f44d428a3a461182c3b2bc/artifacts
+deleted_time: 1755689866093
+end_time: 1755689595742
+entry_point_name: ''
+experiment_id: '649140515675100919'
+lifecycle_stage: deleted
+run_id: 438d5a3187f44d428a3a461182c3b2bc
+run_name: mercurial-ant-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755689595158
+status: 4
+tags: []
+user_id: naman

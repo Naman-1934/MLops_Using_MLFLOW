@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/966970494872304366/e65bbb41fc3c431db5892b97fb8c313d/artifacts
+end_time: 1755688097084
+entry_point_name: ''
+experiment_id: '966970494872304366'
+lifecycle_stage: active
+run_id: e65bbb41fc3c431db5892b97fb8c313d
+run_name: melodic-panda-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755688095961
+status: 3
+tags: []
+user_id: naman

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc0e4f307b89408aae1eca3597e426ef/artifacts
+end_time: 1755687260874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc0e4f307b89408aae1eca3597e426ef
+run_name: abrasive-frog-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755687259473
+status: 3
+tags: []
+user_id: naman

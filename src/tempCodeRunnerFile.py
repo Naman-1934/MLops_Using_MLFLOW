@@ -1,0 +1,1 @@
+mlflow.sklearn.save_model(rf, "Random-Forest-Model")

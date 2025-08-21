@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/649140515675100919/11ea303f5d7d4f3db55610f4a851e6cb/artifacts
+end_time: 1755688405835
+entry_point_name: ''
+experiment_id: '649140515675100919'
+lifecycle_stage: active
+run_id: 11ea303f5d7d4f3db55610f4a851e6cb
+run_name: enchanting-swan-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755688405264
+status: 3
+tags: []
+user_id: naman

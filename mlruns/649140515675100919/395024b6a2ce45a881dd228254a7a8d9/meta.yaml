@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/649140515675100919/395024b6a2ce45a881dd228254a7a8d9/artifacts
+end_time: 1755765506596
+entry_point_name: ''
+experiment_id: '649140515675100919'
+lifecycle_stage: active
+run_id: 395024b6a2ce45a881dd228254a7a8d9
+run_name: clumsy-wren-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755765490703
+status: 3
+tags: []
+user_id: naman
